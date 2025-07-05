@@ -1,26 +1,19 @@
-# Business Analytics Dashboard
+# Online Retail Analysis – Tableau Dashboard by Priyanshi
 
-This is my first project in business analytics as a BBA (Entrepreneurship) student.  
-The goal is to visualize key metrics and derive insights from an online retail dataset.
+This interactive Tableau dashboard presents a comprehensive analysis of an online retail dataset. It was built to understand customer patterns, product performance, and revenue distribution across different segments.
 
-## 🚀 Tools Used
-- Tableau
-- Excel (for data cleaning)
+## 🔍 Key Insights
+- Monthly and yearly sales trends
+- Top-performing products and categories
+- Regional sales comparison
+- Customer segmentation using filters and KPIs
 
-## 📊 Key Features
-- Sales and profit trends by region and product category
-- Customer segmentation using filters
-- Interactive charts and KPIs
+## 🎯 Goal
+To practice data visualization skills and apply business intelligence concepts using real-world retail data.
 
-## 🎯 Learning Outcomes
-- Basic data modeling
-- Creating dashboards for decision-making
-- Applying business intelligence to real-world scenarios
+## 🛠 Tools Used
+- Tableau (for dashboard creation)
+- Excel (for data cleaning and preparation)
 
-## 📁 Files Included
-- `Online Retail Analysis Priyanshi.twbx`
-- `RetailData.xlsx`
-
----
-
-🔗 More projects coming soon! Stay tuned.
+## 📁 File Included
+- `Online Retail Analysis – Priyanshi.twbx`: Tableau workbook with visuals and filters
