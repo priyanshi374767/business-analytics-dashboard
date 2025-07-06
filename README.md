@@ -17,3 +17,5 @@ To practice data visualization skills and apply business intelligence concepts u
 
 ## 📁 File Included
 - `Online Retail Analysis – Priyanshi.twbx`: Tableau workbook with visuals and filters
+
+![Dashboard Preview](dashboard-preview.png)
